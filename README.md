@@ -6,5 +6,6 @@ It is a modified version from https://www.geeksforgeeks.org/house-price-predicti
 # Here is what you should have
 
 # pip install opencv-python numpy matplotlib scikit-learn
+# pip install seaborn
 # pip install openpyxl
 # pip install catboost
