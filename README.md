@@ -10,4 +10,4 @@ It is a modified version from https://www.geeksforgeeks.org/house-price-predicti
 # pip install openpyxl
 # pip install catboost
 # pip install xgboost
-
+# pip install pandas
