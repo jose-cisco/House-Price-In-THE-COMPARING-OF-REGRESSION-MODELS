@@ -5,7 +5,7 @@ It is a modified version from https://www.geeksforgeeks.org/house-price-predicti
 # Please make sure that you have installed packages dependencies via pip on command prompt 
 # Here is what you should have
 
-# pip install opencv-python numpy matplotlib scikit-learn
+# pip install numpy matplotlib scikit-learn
 # pip install seaborn
 # pip install openpyxl
 # pip install catboost
