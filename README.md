@@ -1,4 +1,4 @@
-# THE-COMPARISION-OF-REGRESSION-MODELS
+# THE-COMPARING-OF-REGRESSION-MODELS
 
 It is a modified version from https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
 
